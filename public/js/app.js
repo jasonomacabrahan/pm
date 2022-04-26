@@ -40190,8 +40190,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\server0\www\02\laravel-vue-kanban-tutorial\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\server0\www\02\laravel-vue-kanban-tutorial\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\server0\www\project\pm\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\server0\www\project\pm\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })
